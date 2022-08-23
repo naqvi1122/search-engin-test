@@ -17,7 +17,7 @@
               <table class="table">
                 <thead class=" text-primary">
                      <th>idd</th>
-                    <th>description</th>
+                    <th>descriptionn</th>
                     <th>file</th>
                     <th>view</th>
                     <th>download</th>
