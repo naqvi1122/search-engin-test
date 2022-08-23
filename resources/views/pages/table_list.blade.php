@@ -17,9 +17,15 @@
               <table class="table">
                 <thead class=" text-primary">
                      <th>idd</th>
+<<<<<<< Updated upstream
                     <th>descriptionn</th>
                     <th>filee</th>
                     <th>view</th>
+=======
+                    <th>description</th>
+                    <th>file</th>
+                    <th>vieww</th>
+>>>>>>> Stashed changes
                     <th>download</th>
                 </thead>
                 <tbody>
