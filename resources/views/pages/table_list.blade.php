@@ -18,7 +18,7 @@
                 <thead class=" text-primary">
                      <th>idd</th>
                     <th>descriptionn</th>
-                    <th>file</th>
+                    <th>filee</th>
                     <th>view</th>
                     <th>download</th>
                 </thead>
