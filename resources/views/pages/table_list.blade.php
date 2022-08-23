@@ -17,16 +17,10 @@
               <table class="table">
                 <thead class=" text-primary">
                      <th>idd</th>
-<<<<<<< Updated upstream
-                    <th>descriptionn</th>
-                    <th>filee</th>
-                    <th>view</th>
-=======
                     <th>description</th>
                     <th>file</th>
-                    <th>vieww</th>
->>>>>>> Stashed changes
-                    <th>download</th>
+                    <th>view</th>
+                    <th>downloadd</th>
                 </thead>
                 <tbody>
                 @foreach($data as $t)
