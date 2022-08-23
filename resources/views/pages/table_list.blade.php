@@ -20,7 +20,7 @@
                     <th>description</th>
                     <th>file</th>
                     <th>view</th>
-                    <th>download</th>
+                    <th>downloadd</th>
                 </thead>
                 <tbody>
                 @foreach($data as $t)
