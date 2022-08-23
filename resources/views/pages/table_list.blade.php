@@ -16,7 +16,7 @@
             @if (isset($data))
               <table class="table">
                 <thead class=" text-primary">
-                     <th>id</th>
+                     <th>idd</th>
                     <th>description</th>
                     <th>file</th>
                     <th>view</th>
