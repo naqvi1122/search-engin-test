@@ -252,8 +252,6 @@ class PostController extends Controller
         //         $content = str_replace('</w:r></w:p>', "\r\n", $content);
         //         $striped_content = strip_tags($content);
 
-
-
         for ($x = 6; $x <= 7; $x++) {
             $url = Storage::disk('spaces')->allFiles('uploads');
             //dd($url);
