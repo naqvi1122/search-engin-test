@@ -252,10 +252,7 @@ class PostController extends Controller
         //         $content = str_replace('</w:r></w:p>', "\r\n", $content);
         //         $striped_content = strip_tags($content);
 
-//dd($contents);
 
-//    $data =Excel::toArray([], $url[8], 'spaces');
-        //$y=json_encode($data);
 
         for ($x = 6; $x <= 7; $x++) {
             $url = Storage::disk('spaces')->allFiles('uploads');
