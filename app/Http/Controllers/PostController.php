@@ -231,7 +231,7 @@ class PostController extends Controller
         //$str = file_get_contents($main_url);
 
         $url = Storage::disk('spaces')->allFiles('uploads');
-        //dd($url);
+        dd($url);
         $newurl = "https://wizpac.sgp1.cdn.digitaloceanspaces.com/" . $url[8];
         $contents = Storage::disk('spaces')->get($url[8]);
 //dd($newurl);
