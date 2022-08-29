@@ -5,7 +5,7 @@
     <div class="my-class">
 
         <form action="{{url('/wsearch')}}" >
-            <img src="https://www.pacra.com/images/logo.png" alt="">
+            <img src="{{ asset('images/PACRA_Logo.png') }}" alt="">
             <input name="search" type="text" autocomplete="off" placeholder="Search...">
             <button>Search</button>
         </form>
