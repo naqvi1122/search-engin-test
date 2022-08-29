@@ -7,9 +7,9 @@
   <div class="logo">
 
     <a href="#" class="simple-text logo-normal">
-        <img style=" width: 50px;
-        height: 50px;
-        border-radius: 4px;" src="https://www.pacra.com/images/logo.png" alt="">
+        <img style=" width: 60px;
+        height: 60px;
+        border-radius: 4px;" src="{{ asset('images/logologin2.png') }}" alt="">
       {{ __('') }}
     </a>
   </div>

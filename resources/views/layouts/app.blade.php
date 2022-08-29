@@ -39,7 +39,7 @@
 }
 
 .my-class > form img {
-    width: 153px;
+    width: 160px;
     height: 143px;
     border-radius: 4px;
     object-fit: cover;
