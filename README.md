@@ -8,3 +8,4 @@ main screen
 ![image](https://user-images.githubusercontent.com/96628989/186579784-ef2c14ee-e625-447a-ae6d-0b10d3228d38.png)
 ![image](https://user-images.githubusercontent.com/96628989/186579844-da8115f9-7eb4-4622-ac55-dd30a729708d.png)
 ![image](https://user-images.githubusercontent.com/96628989/186579897-9c96fbdd-5207-4a24-85ec-943609e3c8cf.png)
+<img width="738" alt="Capture" src="https://user-images.githubusercontent.com/96628989/188456279-299b2bfa-7d5d-49ed-83a0-2c8a193cd07b.PNG">
